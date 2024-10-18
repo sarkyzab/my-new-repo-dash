@@ -1,5 +1,3 @@
-"# my-new-repo-dash" 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
