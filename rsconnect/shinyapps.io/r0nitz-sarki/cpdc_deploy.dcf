@@ -1,0 +1,10 @@
+name: cpdc_deploy
+title:
+username: r0nitz-sarki
+account: r0nitz-sarki
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13042504
+bundleId: 9232935
+url: https://r0nitz-sarki.shinyapps.io/cpdc_deploy/
+version: 1
